@@ -182,7 +182,7 @@ var e = {
           side: { km: `ប្រកប សេរីពេជ្របូរមី`, en: `Brakab Sereypichbormey` },
           bank: `ABA PAY`,
           name: `VICHEA NOURNKIRY AND BRAKAB SEREY PICH BORMEY`,
-          qr: `/gift/aba.webp`,
+          qr: `/img/aba.webp`,
         },
       ],
     },
