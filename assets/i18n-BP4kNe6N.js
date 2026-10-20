@@ -32,54 +32,54 @@
 var e = {
     couple: {
       groom: {
-        km: `វិជ្ជានួន គីរី`,
-        en: `Vicheanourn Kiry`,
-        initialKm: `គ`,
-        initialEn: `K`,
+        km: `ផៃ រស្មី`,
+        en: `Phay Raksmey`,
+        initialKm: `រ`,
+        initialEn: `R`,
       },
       bride: {
-        km: `ប្រកបសេរីពេជ្រ បូរមី`,
-        en: `Brakabsereypich Bormey`,
-        initialKm: `ប`,
-        initialEn: `B`,
+        km: `មាស ភក្ដី`,
+        en: `Meas Pheakdey`,
+        initialKm: `ភ`,
+        initialEn: `P`,
       },
     },
     families: {
       groom: {
-        father: { km: `លោក គិរី កែវវិជ្ជា`, en: `Mr. KIRY KEOVICHEA` },
-        mother: { km: `អ្នកស្រី ហ៊ៀង ស៊ីនួន`, en: `Mrs. HEANG SINOURN` },
+        father: { km: `លោក ផៃ សុខន`, en: `Mr. Phay Sokhan` },
+        mother: { km: `អ្នកស្រី យ៉ាន់ ចាន់ណារ៉ា`, en: `Mrs. Yann Chanara` },
       },
       bride: {
-        father: { km: `លោក ឈួន សេរីវឌ្ឍន៍`, en: `Mr. CHHUON SEREYVATH` },
-        mother: { km: `អ្នកស្រី ម៉ី ណាវី`, en: `Mrs. MEY NAVY` },
+        father: { km: `លោក ហែម សាវឿន`, en: `Mr. Hem Saveourn` },
+        mother: { km: `អ្នកស្រី សៅ ណឺង`, en: `Mrs. Sao Neung` },
       },
     },
-    date: `2027-03-20T16:00:00+07:00`,
+    date: `2026-11-15T16:00:00+07:00`,
     timeIsPlaceholder: !1,
     dateIsPlaceholder: !1,
     lunar: {
-      km: `ត្រូវនឹងថ្ងៃសៅរ៍ ១៣កើត ខែផល្គុន ឆ្នាំមមី អដ្ឋស័ក ព.ស.២៥៧០`,
-      en: `13th Koeut, month of Phagaun, Year of the Horse, Ardaksak era, B.E. 2570`,
+      km: `ត្រូវនឹងថ្ងៃអាទិត្យ ៦កើត ខែកត្ដិក ឆ្នាំមមី អដ្ឋស័ក ព.ស.២៥៧០`,
+      en: `6th waxing day of Kadeuk, Year of the Horse, B.E. 2570`,
     },
     venue: {
       name: { km: `គេហដ្ឋានខាងស្រី`, en: `The Bride’s House` },
       address: {
-        km: `ភូមិប្រាសាទ សង្កាត់ស្នោរ ខណ្ឌកំបូល ក្រុងភ្នំពេញ`,
-        en: `Prasat Village, Snorr Commune, Kambol District, Phnom Penh`,
+        km: `ភូមិព្រែកហូរលិច១ សង្កាត់ព្រែកហូរ ក្រុងតាខ្មៅ ខេត្តកណ្តាល`,
+        en: `Preakho Lich 1 Village, Preakho Commune, Takhmao District, Kandal Province`,
       },
-      lat: 11.586790,
-      lng: 104.788245,
-      mapsUrl: `https://maps.app.goo.gl/5eRjFEayMcioq4Fb9`,
+      lat: 11.45128,
+      lng: 104.93335,
+      mapsUrl: `https://www.google.com/maps/search/?api=1&query=11.45128,104.93335`,
       note: { km: ``, en: `` },
     },
     contacts: [
-      { label: `093 299 008`, tel: `+85593299008` },
-      { label: `070 361 777`, tel: `+85570361777` },
+      { label: `096 7 717 278`, tel: `+855967717278` },
+      { label: `070 895 623`, tel: `+85570895623` },
     ],
     programme: [
       {
-        km: `កម្មវិធីទី១ ថ្ងៃសុក្រ ទី១៩ ខែមីនា ឆ្នាំ២០២៧`,
-        en: `Day 1 · Friday 19 March 2027`,
+        km: `កម្មវិធីទី១ ថ្ងៃសៅរ៍ ទី១៤ ខែវិច្ឆិកា ឆ្នាំ២០២៦`,
+        en: `Day 1 · Saturday 14 November 2026`,
         rows: [
           {
             t: `03:00`,
@@ -112,8 +112,8 @@ var e = {
         ],
       },
       {
-        km: `កម្មវិធីទី២ ថ្ងៃសៅរ៍ ទី២០ ខែមីនា ឆ្នាំ២០២៧`,
-        en: `Day 2 · Saturday 20 March 2027`,
+        km: `កម្មវិធីទី២ ថ្ងៃអាទិត្យ ទី១៥ ខែវិច្ឆិកា ឆ្នាំ២០២៦`,
+        en: `Day 2 · Sunday 15 November 2026`,
         rows: [
           {
             t: `06:30`,
@@ -179,15 +179,21 @@ var e = {
       enabled: !0,
       accounts: [
         {
-          side: { km: `ប្រកប សេរីពេជ្របូរមី`, en: `Brakab Sereypichbormey` },
+          side: { km: `មាស ភក្ដី`, en: `Meas Pheakdey` },
+          bank: `KHQR`,
+          name: `មាស ភក្ដី`,
+          qr: `/gift/khqr.webp`,
+        },
+        {
+          side: { km: `មាស ភក្ដី`, en: `Meas Pheakdey` },
           bank: `ABA PAY`,
-          name: `VICHEA NOURNKIRY AND BRAKAB SEREY PICH BORMEY`,
+          name: `PHEKEDEY MEAS`,
           qr: `/gift/aba.webp`,
         },
       ],
     },
     music: `/audio/music.mp3`,
-    siteUrl: `https://kiry-pich.vercel.app`,
+    siteUrl: `https://raksmey-pheakdey.vercel.app`,
   },
   t = {
     km: {
@@ -196,7 +202,7 @@ var e = {
       cardBody: `ឯកឧត្តម អ្នកឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាង កញ្ញា និង ប្រិយមិត្តអញ្ជើញចូលរួមជាអធិបតី និងជាភ្ញៀវកិត្តិយស ដើម្បីប្រសិទ្ធពរជ័យសិរីសួស្តី ជ័យមង្គលក្នុង ពិធីរៀបអាពាហ៍ពិពាហ៍ កូនប្រុស-ស្រី របស់យើងខ្ញុំ`,
       cardSon: `កូនប្រុសនាម`,
       cardDaughter: `កូនស្រីនាម`,
-      cardWhen: `ពិសាភោជនាហារប្រព្រឹត្តនៅ ថ្ងៃសៅរ៍ ១៣កើត ខែផល្គុន ឆ្នាំមមី អដ្ឋស័ក ព.ស.២៥៧០ ត្រូវនឹងថ្ងៃសៅរ៍ ទី២០ ខែមីនា ឆ្នាំ២០២៧ វេលាម៉ោង ៤:០០ ល្ងាច ស្ថិតនៅគេហដ្ឋានខាងស្រី ភូមិប្រាសាទ សង្កាត់ស្នោរ ខណ្ឌកំបូល ក្រុងភ្នំពេញ ដោយមេត្រីភាព។ សូមអរគុណ!`,
+      cardWhen: `ពិសាភោជនាហារប្រព្រឹត្តនៅ ថ្ងៃអាទិត្យ ៦កើត ខែកត្តិក ឆ្នាំមមី អដ្ឋស័ក ព.ស. ២៥៧០ ត្រូវនឹងថ្ងៃ ទី១៥ ខែវិច្ឆិកា ឆ្នាំ២០២៦ វេលាម៉ោង ៤:០០ ល្ងាច ស្ថិតនៅគេហដ្ឋានខាងស្រី ភូមិព្រែកហូរលិច១ សង្កាត់ព្រែកហូរ ក្រុងតាខ្មៅ ខេត្តកណ្តាល ដោយមេត្រីភាព។ សូមអរគុណ!`,
       programmeCardTitle: `កម្មវិធីសិរីមង្គលអាពាហ៍ពិពាហ៍`,
       timeWord: `ម៉ោង`,
       contactTitle: `លេខម្ចាស់កម្មវិធីការ`,
@@ -282,7 +288,7 @@ var e = {
       cardBody: `on the Auspicious Occasion of the Wedding Reception of our Children`,
       cardSon: `Our son`,
       cardDaughter: `Our daughter`,
-      cardWhen: `Which will be held on Saturday 20th November 2027, 4:00 pm, at The Bride’s House, Prasat Village, Snorr Commune, Kambol District, Phnom Penh. (Please see the map) Thank you!`,
+      cardWhen: `Which will be held on Sunday 15th November 2026, 4:00 pm, at The Bride’s House, Preakho Lich 1 Village, Preakho Commune, Takhmao District, Kandal Province. (Please see the map) Thank you!`,
       programmeCardTitle: `The Wedding Ceremonies`,
       timeWord: ``,
       contactTitle: `Host contact numbers`,
