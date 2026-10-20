@@ -282,7 +282,7 @@ var e = {
       cardBody: `on the Auspicious Occasion of the Wedding Reception of our Children`,
       cardSon: `Our son`,
       cardDaughter: `Our daughter`,
-      cardWhen: `Which will be held on Saturday 20th November 2027, 4:00 pm, at The Bride’s House, Preakho Lich 1 Village, Preakho Commune, Takhmao District, Kandal Province. (Please see the map) Thank you!`,
+      cardWhen: `Which will be held on Saturday 20th November 2027, 4:00 pm, at The Bride’s House, Prasat Village, Snorr Commune, Kambol District, Phnom Penh. (Please see the map) Thank you!`,
       programmeCardTitle: `The Wedding Ceremonies`,
       timeWord: ``,
       contactTitle: `Host contact numbers`,
