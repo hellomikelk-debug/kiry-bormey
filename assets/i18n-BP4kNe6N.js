@@ -32,7 +32,7 @@
 var e = {
     couple: {
       groom: {
-        km: `វិជ្ជា នួនគីរី`,
+        km: `វិជ្ជានួនគីរី`,
         en: `Vichea Nournkiry`,
         initialKm: `គ`,
         initialEn: `K`,
@@ -196,7 +196,7 @@ var e = {
       cardBody: `ឯកឧត្តម អ្នកឧកញ៉ា លោកជំទាវ លោក លោកស្រី អ្នកនាង កញ្ញា និង ប្រិយមិត្តអញ្ជើញចូលរួមជាអធិបតី និងជាភ្ញៀវកិត្តិយស ដើម្បីប្រសិទ្ធពរជ័យសិរីសួស្តី ជ័យមង្គលក្នុង ពិធីរៀបអាពាហ៍ពិពាហ៍ កូនប្រុស-ស្រី របស់យើងខ្ញុំ`,
       cardSon: `កូនប្រុសនាម`,
       cardDaughter: `កូនស្រីនាម`,
-      cardWhen: `ពិសាភោជនាហារប្រព្រឹត្តនៅ ថ្ងៃអាទិត្យ ៦កើត ខែកត្តិក ឆ្នាំមមី អដ្ឋស័ក ព.ស. ២៥៧០ ត្រូវនឹងថ្ងៃ ទី១៥ ខែវិច្ឆិកា ឆ្នាំ២០២៦ វេលាម៉ោង ៤:០០ ល្ងាច ស្ថិតនៅគេហដ្ឋានខាងស្រី ភូមិព្រែកហូរលិច១ សង្កាត់ព្រែកហូរ ក្រុងតាខ្មៅ ខេត្តកណ្តាល ដោយមេត្រីភាព។ សូមអរគុណ!`,
+      cardWhen: `ពិសាភោជនាហារប្រព្រឹត្តនៅ ថ្ងៃសៅរ៍ ១៣កើត ខែផល្គុន ឆ្នាំមមី អដ្ឋស័ក ព.ស.២៥៧០ ត្រូវនឹងថ្ងៃសៅរ៍ ទី២០ ខែមីនា ឆ្នាំ២០២៧ វេលាម៉ោង ៤:០០ ល្ងាច ស្ថិតនៅគេហដ្ឋានខាងស្រី ភូមិព្រែកហូរលិច១ សង្កាត់ព្រែកហូរ ក្រុងតាខ្មៅ ខេត្តកណ្តាល ដោយមេត្រីភាព។ សូមអរគុណ!`,
       programmeCardTitle: `កម្មវិធីសិរីមង្គលអាពាហ៍ពិពាហ៍`,
       timeWord: `ម៉ោង`,
       contactTitle: `លេខម្ចាស់កម្មវិធីការ`,
@@ -282,7 +282,7 @@ var e = {
       cardBody: `on the Auspicious Occasion of the Wedding Reception of our Children`,
       cardSon: `Our son`,
       cardDaughter: `Our daughter`,
-      cardWhen: `Which will be held on Sunday 15th November 2026, 4:00 pm, at The Bride’s House, Preakho Lich 1 Village, Preakho Commune, Takhmao District, Kandal Province. (Please see the map) Thank you!`,
+      cardWhen: `Which will be held on Saturday 20th November 2027, 4:00 pm, at The Bride’s House, Preakho Lich 1 Village, Preakho Commune, Takhmao District, Kandal Province. (Please see the map) Thank you!`,
       programmeCardTitle: `The Wedding Ceremonies`,
       timeWord: ``,
       contactTitle: `Host contact numbers`,
