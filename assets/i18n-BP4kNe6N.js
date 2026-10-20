@@ -32,16 +32,16 @@
 var e = {
     couple: {
       groom: {
-        km: `វិជ្ជានួនគីរី`,
-        en: `Vichea Nournkiry`,
+        km: `គីរី`,
+        en: `Kiry`,
         initialKm: `គ`,
         initialEn: `K`,
       },
       bride: {
-        km: `ប្រកប សេរីពេជ្របូរមី`,
-        en: `Brakab Sereypichbormey`,
-        initialKm: `ព`,
-        initialEn: `P`,
+        km: `បូរមី`,
+        en: `Bormey`,
+        initialKm: `ប`,
+        initialEn: `B`,
       },
     },
     families: {
